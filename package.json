@@ -1,0 +1,20 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "description": "alx-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Mia-Tee/alx-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mia-Tee/alx-react/issues"
+  },
+  "homepage": "https://github.com/Mia-Tee/alx-react#readme"
+}
